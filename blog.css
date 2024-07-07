@@ -1,0 +1,33 @@
+nav > ul > li{
+    display:inline;
+    margin: 30px ;
+    padding: 10px;
+    
+    
+}
+nav ul{
+    text-align: center;
+}
+nav li > a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    text-align: center;
+    color: red;
+}
+article > header > h2{
+    margin-right: 20px;
+    padding: 26px 54px;
+}
+.cen:hover{
+    background-color: rgb(228, 198, 198);
+    border-radius: 10px;
+}
+main > article > figure > figcaption{
+    font-size: large;
+}
+.Ex{
+    font-weight: bolder;
+    font-size: x-large;
+}
